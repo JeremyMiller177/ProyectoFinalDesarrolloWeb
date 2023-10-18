@@ -24,22 +24,22 @@ const Inicio = () => (
           Jeremy Saúl Rodríguez García / 1790-20-20725 / Desarrollo Web
         </Badge>
         <Badge color="cyan" variant="filled">
-          Integrante #2 / Carnet #2 / Desarrollo Web
+          Rudy Isaías Morán Gómez / 1790-20-3374 / Desarrollo Web
         </Badge>
         <Badge color="green" variant="filled">
-          Integrante #3 / Carnet #3 / Desarrollo Web
+          Jelsin Jair Saenz Castañeda / 1790-20-6022 / Desarrollo Web
         </Badge>
         <Badge color="orange" variant="filled">
-          Integrante #4 / Carnet #4 / Desarrollo Web
+          Jaqueline Maydelí Godoy Morataya  / 1790-20-20265 / Desarrollo Web
         </Badge>
         <Badge color="dark" variant="filled">
-          Integrante #5 / Carnet #5 / Desarrollo Web
+          Diego Alejandro Castro Ramírez / 1790-20-20986 / Desarrollo Web
         </Badge>
         <Badge color="grape" variant="filled">
-          Integrante #6 / Carnet #6 / Desarrollo Web
+          Edras Rafael Monterroso Flores / 1790-20-10568 / Desarrollo Web
         </Badge>
         <Badge color="yellow" variant="filled">
-          Integrante #7 / Carnet #7 / Desarrollo Web
+          Carlos Alejandro Rodríguez Díaz / 1790-20-18990 / Desarrollo Web
         </Badge>
       </div>
     </Card>
